@@ -37,6 +37,7 @@ module.exports = {
     'jsx-a11y/accessible-emoji': 'off',
     'react/prop-types': 'off',
     'jsx-a11y/alt-text': 'off',
+    'jsx-a11y/label-has-associated-control': 'off',
     '@typescript-eslint/explicit-function-return-type': 'off',
     'simple-import-sort/imports': 'error',
     semi: [2, 'always'],
